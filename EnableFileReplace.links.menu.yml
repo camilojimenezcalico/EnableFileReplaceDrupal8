@@ -1,0 +1,7 @@
+EnableFileReplace.admin:
+  title: 'EnableFileReplace'
+  description: 'Manage settings for EnableFileReplace'
+  parent: system.admin_config_system
+  # menu_name: main
+  route_name: EnableFileReplace.settings
+  weight: 1

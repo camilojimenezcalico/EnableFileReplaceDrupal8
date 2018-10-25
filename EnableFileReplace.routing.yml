@@ -1,0 +1,9 @@
+
+EnableFileReplace.settings:
+  path: '/admin/structure/EnableFileReplace/settings'
+  defaults:
+    _form: '\Drupal\EnableFileReplace\Form\EnableFileReplaceForm'
+    _title: 'EnableFileReplaceForm'
+  requirements:
+    _permission: 'administer site configuration'
+
